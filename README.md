@@ -3,7 +3,6 @@
 - Build a React E-commerce Shopping using React Redux  
 ## Demo
 
-![Demo](https://basir.github.io/ecommerce-shopping-cart/demo.gif)
 
 ## Install
 ```
